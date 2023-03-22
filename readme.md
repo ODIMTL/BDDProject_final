@@ -1,5 +1,14 @@
-# ceci est la documentation du project
-1. First item
-2. Second item
-3. Third item
-4. Fourth item
+# Structure du projet
+Creer la structure suivante:
+-requirement.txt
+-features
+ - steps
+ - environement.py
+-logs
+-utilitaires
+-configuration_data
+  -config.ini
+  -rapport_tests
+  -behave.ini
+
+
