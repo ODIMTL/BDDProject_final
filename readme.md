@@ -8,7 +8,7 @@ Creer la structure suivante:
 -utilitaires
 -configuration_data
   -config.ini
-  -rapport_tests
-  -behave.ini
+-rapport_tests
+-behave.ini
 
 
